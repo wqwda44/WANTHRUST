@@ -214,6 +214,7 @@ This project is provided **as‑is**, without warranty of any kind. The authors 
 ## 🔗 Repository
 
 GitHub: [https://github.com/wqwda44/WANTHRUST](https://github.com/wqwda44/WANTHRUST)
+
 Author: [44Сhannel](https://t.me/chanel441)
 
 ---
